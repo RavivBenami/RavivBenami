@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 💡 I’m currently acquiring more knowledge and experience 📖
+- 👨‍💻 I'm open to work offers
+- 👯 I’m looking to collaborate with other developers
+- ⚡ Fun fact : I love to train at the gym and play at the computer
 
 ### Connect with me:
 
