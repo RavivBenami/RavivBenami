@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="www.linkedin.com/in/ravivbenami" />](/www.linkedin.com/in/ravivbenami)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="www.linkedin.com/in/ravivbenami" />](https://www.linkedin.com/in/RavivBenami/)
 
 </br>
 
