@@ -5,7 +5,7 @@
 - 💡 I’m currently acquiring more knowledge and experience 📖
 - 👨‍💻 I'm open to work offers
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact : I love to train at the gym and play at the computer
+- ⚡ Fun fact: I love to train at the gym and play at the computer
 
 ### Connect with me:
 
