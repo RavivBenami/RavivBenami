@@ -1,7 +1,5 @@
 ### Hi there, I'm Raviv 👋
 
-## I'm a Full Stack Developer
-
 - 💡 I’m currently acquiring more knowledge and experience 📖
 - 👨‍💻 I'm open to work offers
 - 👯 I’m looking to collaborate with other developers
